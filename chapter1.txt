@@ -1,1 +1,2 @@
 First chapter of story
+This is the new branch.
